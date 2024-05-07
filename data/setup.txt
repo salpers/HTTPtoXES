@@ -1,0 +1,13 @@
+paste content from data.zip here
+
+required files for our approach:
+
+data/
+    - hr.xml
+    - hr_gt.csv
+    - hr_il.csv
+    - hr_train.csv
+    - ptp.xml
+    - ptp_gt.csv
+    - ptp_il.csv
+    - ptp_train.csv
