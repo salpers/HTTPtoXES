@@ -25,4 +25,10 @@ process model.
 ## Usage
 Run the [notebook](notebook/pipeline_final.ipynb) to obtain the results presented.
 
+## File Structure 
+- [**Archive**](archive) contains notebooks and files to illustrate my progress throughout my master thesis. However, I did not check whether the notebooks run with the new file structure.
+- [**Data**](data) Data folder for the submission notebook. Due to file size constraints from GitHub this folder needs to be manually populated by downloading the [data.zip](https://drive.google.com/file/d/1LpoE9J23hurN4ppgrPEcLLenalWfowNT/view?usp=sharing) file.
+- [**Event Loop**](event_loop) Python package with all classes related to the approach. 
+- [**Notebook**](notebook) Contains the final event loop notebook for the submisison. Launch this notebook to obtain the results reported in my thesis. 
+- [**Out**](out) Data folder for the output xes files. Used in earlier versions for conformance checking. However, conformance checking is now integrated in the submission notebook.
 
